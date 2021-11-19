@@ -1,0 +1,10 @@
+Package: mypack
+Type: Package
+Title: My Package
+Version: 0.1.0
+Author: ZhizhuoZhang
+Maintainer: The package maintainer <zhizhuozhang@sjtu.edu.cn>
+Description: Don't konw
+License: GNU
+Encoding: UTF-8
+LazyData: true
